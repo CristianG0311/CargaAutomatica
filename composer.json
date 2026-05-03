@@ -1,0 +1,9 @@
+{
+    "name": "fisc/laboratorio-autoload",
+    "description": "Implementación de la Carga Automática PSR-4",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
