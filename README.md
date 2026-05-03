@@ -28,7 +28,7 @@ Este proyecto aplica el estándar **PSR-4** para organizar los archivos y las cl
 ## 3. Pruebas de Ejecución
 Se demuestra que el sistema instancia los objetos correctamente sin errores de "Class not found":
 
-![Prueba de Funcionamiento](captura.png)  
+![image alt](https://github.com/CristianG0311/CargaAutomatica/blob/ac50307018eb80d8fe0c07eea106cb954e75161a/image.png) 
 
 ## 4. Análisis Comparativo (Conclusiones Técnicas)
 Se destacan tres ventajas críticas observadas durante el laboratorio:
